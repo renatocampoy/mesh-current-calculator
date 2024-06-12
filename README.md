@@ -9,6 +9,11 @@ O **Mesh Current Calculator** é um aplicativo GUI desenvolvido em Python para r
 - Resolver o sistema de equações para encontrar as correntes nas malhas.
 - Exibir os resultados das correntes de malha.
 
+## Demonstração em Vídeo
+
+[![Assista ao vídeo de demonstração](http://i3.ytimg.com/vi/cplhZHZ8OW0/hqdefault.jpg)](https://www.youtube.com/watch?v=cplhZHZ8OW0)
+
+
 ## Pré-requisitos
 
 Para executar este projeto, você precisa ter o Python instalado em seu sistema, bem como as bibliotecas `sympy` e `tkinter`. Você pode instalar `sympy` utilizando o pip:
