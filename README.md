@@ -50,4 +50,4 @@ Desenvolvido por Eng. Renato Campoy (renato@campoy.eng.br).
 
 ## Licença
 
-Este projeto é distribuído sob a licença =
+Este projeto é distribuído sob a licença GNU General Public License v3.0
